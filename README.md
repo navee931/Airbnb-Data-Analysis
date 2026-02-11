@@ -18,15 +18,6 @@ The analysis is based on 9,000+ listings and focuses on understanding how proper
 
 - MySQL – Schema design, data validation, aggregation queries
 - Power BI – Data modeling, DAX measures, dashboard visualization
-  
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📊 Key Business Insights
-
-- Entire homes are priced significantly higher than private or shared rooms.
-- Listings within 1 km of the city center command a strong premium.
-- Superhosts charge approximately 9% higher average prices.
-- Pricing increases sharply for properties with 2+ bedrooms.
-- Distance from the city center shows a strong negative correlation with price.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📈 Dashboard Highlights
