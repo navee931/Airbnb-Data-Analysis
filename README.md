@@ -16,11 +16,9 @@ The analysis is based on 9,000+ listings and focuses on understanding how proper
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Tools & Technologies
 
-MySQL – Schema design, data validation, aggregation queries
-SQL – GROUP BY, filtering, views, analytical queries
-Power BI – Data modeling, DAX measures, dashboard visualization
-DAX – CALCULATE, filter context, KPI measures
-
+- MySQL – Schema design, data validation, aggregation queries
+- Power BI – Data modeling, DAX measures, dashboard visualization
+  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 Key Business Insights
 
