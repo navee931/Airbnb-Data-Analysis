@@ -41,3 +41,8 @@ The analysis is based on 9,000+ listings and focuses on understanding how proper
 Successfully built a structured analytics workflow from raw data to executive dashboard, demonstrating strong analytical thinking and practical BI implementation skills.
 
 👤 Author — Navee
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1433" height="781" alt="IMG 3" src="https://github.com/user-attachments/assets/471ce99d-7e0c-46ef-87ea-819ce8037aaf" />
+<img width="1437" height="773" alt="IMG 2" src="https://github.com/user-attachments/assets/4e10470a-9b86-4129-9b15-82115692fca5" />
+<img width="1437" height="777" alt="IMG 1" src="https://github.com/user-attachments/assets/04ceee59-a314-4ad9-8e65-515c83eb4fc7" />
